@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Karmin</h1>
 <h3 align="center">A Python developer</h3>
 
+<img align="right" alt="coding" width="400" src = "https://user-images.githubusercontent.com/93570916/213724523-e8177037-bf99-4a83-91eb-a53f6e5a46a9.png">
+
 - 🌱 I’m currently learning **Javascript**
 
 <h3 align="left">Connect with me:</h3>
