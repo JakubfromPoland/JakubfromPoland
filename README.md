@@ -1,3 +1,4 @@
+![logo](https://github.com/JakubfromPoland/JakubfromPoland/blob/main/github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Karmin</h1>
 <h3 align="center">A Python developer</h3>
 
