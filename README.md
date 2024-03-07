@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Karmin</h1>
+<h1 align="center">Hi 👋, I'm Karmin</h1>
 <h3 align="center">Developer of Python(Flask,os,discord),JS,TS,HTML and CSS</h3>
 
 - 🌱 I’m currently learning **about desktop app in JS**
@@ -7,7 +7,8 @@ h1 align="center">Hi 👋, I'm Karmin</h1>
 
 - ⚡ Fun fact **I'm from Poland**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:  rich_karmin on discord </h3>
+
 <p align="left">
 </p>
 
