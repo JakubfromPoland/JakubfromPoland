@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karmin</h1>
-<h3 align="center">Developer of Python(Flask,os,discord),JS,TS,HTML and CSS</h3>
+<h3 align="center">Developer of Python,JS,HTML and CSS</h3>
 
-- 🌱 I’m currently learning **about desktop app in JS**
+- 🌱 I’m currently learning **nothing**
 
 - 📫 How to reach me **rich_karmin on discord**
 
